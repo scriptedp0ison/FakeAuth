@@ -11,4 +11,4 @@ Spoof your wireless network cards media access control address, when performinng
 Check the current state of your media access control address by importing system defined plugins such as fakeauth/network/check/mac_address to get status information about wether or not your MAC address is properly masked or not
 
 # Feautures
--Fake Authentication attacks against WEP (Wired Equivalent Privacy) related IEEE (Institute of Electrical and Electronics Engineers) 802.11 wifi protocol in order to attacks vulnerable networks 
+-Fake Authentication attacks against WEP (Wired Equivalent Privacy) related IEEE (Institute of Electrical and Electronics Engineers) 802.11 wifi protocols in order to attacks vulnerable networks 
