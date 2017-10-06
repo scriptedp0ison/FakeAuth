@@ -1,3 +1,5 @@
+# Attention:
+There has been an issue with how to use this framework for attacking networks. This issue will be updated this weekend
 # FakeAuth
 FakeAuthentication Network Attack framework written in python3, and made with poison
 
