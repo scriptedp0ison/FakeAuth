@@ -10,7 +10,7 @@ There has been an issue with how to use this framework for attacking networks. T
 FakeAuthentication Network Attack framework written in python3, and made with poison
 
 # Network Injection
-Inject wireless Deauthentication frames from wireless access points within a certain basic service set, or within an extended service set to capture a 4 way handshake, and perform local based dictionary based attacks against the .cap file.
+Inject wireless Deauthentication frames from wireless access points within a certain basic service set, or within an extended service set to capture a 4 way handshake, and perform local dictionary based attacks against the .cap file.
 
 # Mac Spoofing (Coming in future update)
 Spoof your wireless network cards media access control address, when performinng arbituary network attacks, to mask your presence (slightly)
