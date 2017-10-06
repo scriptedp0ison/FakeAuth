@@ -2,9 +2,9 @@
 There has been an issue with how to use this framework for attacking networks. This issue will be updated this weekend
 
 # Updates
-** Adding files for MAC Spoofing and MAC checking
-** Adding a bash script for dependencies (you need to chmod u+rwx)
-** If you have any other issues, feel free to comment. I will help
+* Adding files for MAC Spoofing and MAC checking
+* Adding a bash script for dependencies (you need to chmod u+rwx)
+* If you have any other issues, feel free to comment. I will help
 
 # FakeAuth
 FakeAuthentication Network Attack framework written in python3, and made with poison
